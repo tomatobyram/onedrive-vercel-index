@@ -52,8 +52,11 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
+      name: 'WhatsApp',
+      link: 'https://wa.me/message/MAJAOOC4USJTG1',
+    },{
       name: 'Instagram',
-      link: 'https://wwww.instagram.com/tomatobyram',
+      link: 'https://www.instagram.com/tomatobyram/',
     },{
       name: 'Spotify',
       link: 'https://open.spotify.com/playlist/7AtJzPndSOY6b902xH2raN?si=c62bddb217a04ac6',
